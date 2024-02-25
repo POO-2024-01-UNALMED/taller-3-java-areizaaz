@@ -57,7 +57,7 @@ public class TV {
 	public int getPrecio() {
 		return this.precio;
 	}
-	public int getvolumen() {
+	public int getVolumen() {
 		return this.volumen;
 	}
 	public Control getControl() {
