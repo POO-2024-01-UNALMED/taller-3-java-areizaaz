@@ -44,7 +44,7 @@ public class TV {
 	public void turnOff() {
 		this.estado = false;
 	}
-	public void setNumTV(int numTV) {
+	public static void setNumTV(int numTV) {
 		TV.numTV = numTV;
 	}
 	
