@@ -11,7 +11,7 @@ public class Marca {
 		return nombre;
 	}
 	
-	public void setMarca(String nom){
+	public void setNombre(String nom){
 		nombre = nom;
 	}
 }
